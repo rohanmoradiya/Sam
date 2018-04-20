@@ -29,10 +29,10 @@
 
 /* Begin PBXFileReference section */
 		0AD0968ACB5FD91485FEE2AE /* Pods-SamarjeetCode_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SamarjeetCode_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SamarjeetCode_Example/Pods-SamarjeetCode_Example.release.xcconfig"; sourceTree = "<group>"; };
-		11A16A12FCF118C47D5ABBC1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		11A16A12FCF118C47D5ABBC1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		2FADD71082F6F7FF7407D9E1 /* Pods_SamarjeetCode_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SamarjeetCode_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5D0552A3FE5C5A08DB1A9C /* Pods-SamarjeetCode_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SamarjeetCode_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SamarjeetCode_Example/Pods-SamarjeetCode_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		5397D4FB8E37EE765A2FA5D7 /* SamarjeetCode.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SamarjeetCode.podspec; path = ../SamarjeetCode.podspec; sourceTree = "<group>"; };
+		5397D4FB8E37EE765A2FA5D7 /* SamarjeetCode.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SamarjeetCode.podspec; path = ../SamarjeetCode.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* SamarjeetCode_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SamarjeetCode_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		607FACE51AFB9204008FA782 /* SamarjeetCode_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SamarjeetCode_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		748E46A66912382A703BBEB9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		748E46A66912382A703BBEB9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		80AB2EB4F2F54E5845F2DBF3 /* Pods-SamarjeetCode_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SamarjeetCode_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SamarjeetCode_Tests/Pods-SamarjeetCode_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8DD9F500AEEAF2E51D41CC6E /* Pods_SamarjeetCode_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SamarjeetCode_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A319968182880002E5E8BA6A /* Pods-SamarjeetCode_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SamarjeetCode_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SamarjeetCode_Tests/Pods-SamarjeetCode_Tests.release.xcconfig"; sourceTree = "<group>"; };

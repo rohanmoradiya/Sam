@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SamarjeetCode'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SamarjeetCode.'
+  s.summary          = 'this is my summary.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,20 +18,20 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: This description is used to generate tags and improve search resultsThis description is used to generate tags and improve search resultsThis description is used to generate tags and improve search results
                        DESC
 
-  s.homepage         = 'https://github.com/rohanmoradiya/SamarjeetCode'
+  s.homepage         = 'https://github.com/rohanmoradiya/Sam'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'rohanmoradiya' => 'rohanmoradiya@gmail.com' }
-  s.source           = { :git => 'https://github.com/rohanmoradiya/SamarjeetCode.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/rohanmoradiya/Sam.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'SamarjeetCode/Classes/**/*'
-  
+  s.swift_version = '4.0'
   # s.resource_bundles = {
   #   'SamarjeetCode' => ['SamarjeetCode/Assets/*.png']
   # }
