@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SamarjeetCode_Example' do
+  pod 'SamarjeetCode', :path => '../'
+
+  target 'SamarjeetCode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
